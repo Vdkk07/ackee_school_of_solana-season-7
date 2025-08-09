@@ -14,6 +14,16 @@ Throughout this cohort, I built weekly projects and demos that reflect foundatio
 - Learned Rust fundamentals: ownership, lifetimes, and type safety. 
 - Built introductory smart contracts using Anchor, and understood how it simplifies Solana development.
 
+**Week 3: Solana Programming Model I**  
+- Learned account structure, data storage, and Program Derived Addresses (PDAs).
+- Built on-chain programs using Anchor's account validation system.
+- Implemented custom error handling and simple stateful logic.
+
+**Week 4: Solana Programming Model II + CPI**  
+- Explored Cross-Program Invocations (CPI) and inter-program communication.
+- Interacted with the SPL Token program via CPI for token transfers.
+- Built a modular smart contract using nested accounts and secure data handling.
+
 ---
 
 ## 💬 Contact  
